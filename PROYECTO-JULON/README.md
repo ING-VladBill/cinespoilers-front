@@ -2,23 +2,23 @@
 # William Julon Mejia - Lab 09
 
 ## Captura de la terminal creando el proyecto
-![TERMINAL](./PROYECTO-JULON/docs/1w.png)
+![TERMINAL](./docs/1w.png)
 
 ## Proyecto levantado
 
-![Proyecto levantado](./PROYECTO-JULON/docs/2w.png)
+![Proyecto levantado](./docs/2w.png)
 
 ## Landing page React Editada
 
-![Pagina React Editado](./PROYECTO-JULON/docs/3w.png)
+![Pagina React Editado](./docs/3w.png)
 
 ## App Limpia
 
-![App Limpia](./PROYECTO-JULON/docs/4w.png)
+![App Limpia](./docs/4w.png)
 
 ## MI PRIMERA VEZ creando componentes
 
-![App Limpia](./PROYECTO-JULON/docs/5w.png)
+![App Limpia](./docs/5w.png)
 
 # Angel Gabriel Llanos Pacheco
 
