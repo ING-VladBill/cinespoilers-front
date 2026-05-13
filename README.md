@@ -2,40 +2,40 @@
 # William Julon Mejia - Lab 09
 
 ## Captura de la terminal creando el proyecto
-![TERMINAL](./docs/1.png)
+![TERMINAL](./docs/1w.png)
 
 ## Proyecto levantado
 
-![Proyecto levantado](./docs/2.png)
+![Proyecto levantado](./docs/2w.png)
 
 ## Landing page React Editada
 
-![Pagina React Editado](./docs/3.png)
+![Pagina React Editado](./docs/3w.png)
 
 ## App Limpia
 
-![App Limpia](./docs/4.png)
+![App Limpia](./docs/4w.png)
 
 ## MI PRIMERA VEZ creando componentes
 
-![App Limpia](./docs/5.png)
+![App Limpia](./docs/5w.png)
 
 # Angel Gabriel Llanos Pacheco
 
 ## Instalación de React
-!['Instalación de React'](./docs/1.png)
+!['Instalación de React'](./PROYECTO-LLANOS/docs/1.png)
 
 ## Despliegue de React
-!['Despliegue de React'](./docs/2.png)
+!['Despliegue de React'](./PROYECTO-LLANOS/docs/2.png)
 
 ## React Editada
-!['Ejecución del proyecto'](./docs/3.png)
+!['Ejecución del proyecto'](./PROYECTO-LLANOS/docs/3.png)
 
 ## App Limpia
-!['Creación de la primera aplicación'](./docs/4.png)
+!['Creación de la primera aplicación'](./PROYECTO-LLANOS/docs/4.png)
 
 ## Primer Componente
-!['Administradro de entidades'](./docs/5.png)
+!['Administradro de entidades'](./PROYECTO-LLANOS/docs/5.png)
 
 ## React + TypeScript + Vite
 
