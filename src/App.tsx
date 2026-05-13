@@ -1,9 +1,7 @@
-import { useState } from 'react'
-import './App.css'
-
+import Profile from './components/Profile.tsx'
 function App() {
   return (
-    <h1>William Julon Mejia</h1>
+    <Profile />
   )
 }
 

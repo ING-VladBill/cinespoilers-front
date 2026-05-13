@@ -16,6 +16,10 @@
 
 ![App Limpia](./docs/4.png)
 
+## MI PRIMERA VEZ creando componentes
+
+![App Limpia](./docs/5.png)
+
 
 
 
